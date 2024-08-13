@@ -4,8 +4,6 @@
 A retired Army/Air Force, E-4 rank, with a proven track record of securing information in high pressure environments, I am eager to leverage my military experience in network engineering, security and cybersecurity profession.  I am well-versed in network management, risk management, threat analysis and security procedures, and committed to applying my expertise to safeguard digital assets and contribute to the protection of critical infrastructure.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
 My journey support engineer has led me to develop a passion in cybersecurity.  I am now craving to transition into this field, specifically aiming to be a part of the Cybersecurity workforce and making a difference in every day opportunities.
 
 ## Skills
