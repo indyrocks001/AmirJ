@@ -6,7 +6,7 @@ A retired Army/Air Force, E-4 rank, with a proven track record of securing infor
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey support engineer has led me to develop a passion in cybersecurity.  I am now craving to transition into this field, specifically aiming to be a part of the Cybersecurity workforce and making a difference in every day opportunities.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
