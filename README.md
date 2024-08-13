@@ -1,8 +1,6 @@
 # Hello, I'm Amir Jalil
 <a href="https://www.linkedin.com/in/amirjalil"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 A retired Army/Air Force, E-4 rank, with a proven track record of securing information in high pressure environments, I am eager to leverage my military experience in network engineering, security and cybersecurity profession.  I am well-versed in network management, risk management, threat analysis and security procedures, and committed to applying my expertise to safeguard digital assets and contribute to the protection of critical infrastructure.
 
 ## Objective
